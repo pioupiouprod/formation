@@ -18,6 +18,13 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 
 
 
+	
+	
+	
+	
+	
+	
+	
 
 	@Autowired
 	private UserDetailsService userDetailsService;
