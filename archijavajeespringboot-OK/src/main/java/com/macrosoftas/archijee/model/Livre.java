@@ -31,7 +31,9 @@ public class Livre implements Serializable {
 		
 	}
 		
-    
+    	public goToTravis() {
+		
+	}
 	
 
 	public Livre(String titre, List<Genre> genres) {
