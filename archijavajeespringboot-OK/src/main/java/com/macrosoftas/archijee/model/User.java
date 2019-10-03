@@ -86,7 +86,9 @@ public class User {
 	public void setEmail(String email) {
 		this.email = email;
 	}
-
+	public String getToto() {
+		return "toto";
+	}
 	public boolean isActive() {
 		return active;
 	}
